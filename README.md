@@ -1,4 +1,4 @@
-# Deteccion-de-personas
+# Detección de personas
 
 Este es el código usado para el análisis de deteccion de personas con el uso de partes del cuerpo.
 
